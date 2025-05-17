@@ -32,11 +32,12 @@ Hello, I’m Esra.
 
 I am a PhD candidate in **English Language Teaching (ELT)** at TED University , and a **Research Assistant** at Bolu Abant İzzet Baysal University. My research interests lie at the intersection of **technology in language education**, **AI-assisted feedback**, and **conversation analysis**. I explore how digital tools can support reflective teaching and foster meaningful student engagement.
 
-Currently, I’m working on projects related to:
-- The impact of generative AI feedback on student motivation in writing,
-- Enhancing teacher feedback literacy through automated tools,
-- Virtual exchanges and multimodal discourse in online language learning environments,
-- Pragmatics in digital environments.
+Currently, I’m working on projects related to:  
+– The impact of generative AI feedback on student motivation in writing  
+– Enhancing teacher feedback literacy through automated tools  
+– Virtual exchanges and multimodal discourse in online language learning environments  
+– Pragmatics in digital environments
+
 
 You can also check out my [CV](/cv), [Publications](/publications), and [Projects](/projects) to learn more about my academic work.
 
