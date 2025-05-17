@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bolu Abant İzzet Baysal Üniversitesi</p>
+    <p>Bolu Abant İzzet Baysal University</p>
     <p>Faculty of Education </p>
     <p>Department of Foreign Language Education </p>
     <p>English Language Teaching Program, Room 323</p>
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## 👋 Hello, I’m Esra Spahi
+Hello, I’m Esra
 
 I am a PhD candidate in **English Language Teaching (ELT)** at TED University , and a **Research Assistant** at Bolu Abant İzzet Baysal University. My research interests lie at the intersection of **technology in language education**, **AI-assisted feedback**, and **conversation analysis**. I explore how digital tools can support reflective teaching and foster meaningful student engagement.
 
@@ -37,8 +37,4 @@ Currently, I’m working on projects related to:
 - Enhancing teacher feedback literacy through automated tools,
 - Virtual exchanges and multimodal discourse in online language learning environments.
 
-Feel free to reach out or connect via:
-- [LinkedIn](https://linkedin.com/in/esrametin)
-- [Twitter](https://twitter.com/esraspahi)
-- [GitHub](https://github.com/esraspahi)
 
