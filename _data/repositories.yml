@@ -1,7 +1,5 @@
 github_users:
   - esraspahi
- 
 repo_description_lines_max: 2
-
 github_repos:
   - esraspahi/ca-literature
