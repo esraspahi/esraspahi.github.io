@@ -11,27 +11,29 @@
   contents:
     - title: PhD in English Language Teaching
       institution: TED University, Ankara
-      year: 2023–present
+      year: "2023–present"
       description:
         - PhD candidate in English Language Teaching (ELT), focusing on technology use in language education, AI-assisted feedback, and conversation analysis.
 
     - title: MA in English Language Education
       institution: Bolu Abant İzzet Baysal University
-      year: 2023
+      year: "2023"
       description:
-        - Thesis: *A Conversation Analytic Investigation into Advanced EFL Learners' Technology Mediated Task Interactions*
+        - Thesis: A Conversation Analytic Investigation into Advanced EFL Learners' Technology Mediated Task Interactions
 
     - title: BA in English Language Education
       institution: Bolu Abant İzzet Baysal University
-      year: 2020
+      year: "2020"
+      description: []
 
     - title: BSc in Computer Science Engineering
       institution: İstanbul University
-      year: 2016
+      year: "2016"
+      description: []
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
       institution: Bolu Abant İzzet Baysal University
-      year: 2021–present
+      year: "2021–present"
